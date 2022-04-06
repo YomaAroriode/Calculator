@@ -1,5 +1,5 @@
 let output = document.querySelector("input");
-outpu.disabled = true;
+output.disabled = true;
 
 function display(num) {
     output.value += num;
